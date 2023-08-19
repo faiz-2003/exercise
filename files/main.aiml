@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+    <category>
+        <pattern>WHERE IS BRISTOL</pattern>
+        <template>IN THE SOUTH-WEST OF THE U.K</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS BRISTOL</pattern>
+        <template>IN THE SOUTH-WEST OF THE U.K</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS BRISTOL</pattern>
+        <template>IN THE SOUTH-WEST OF THE U.K</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS LONDON</pattern>
+        <template>ROUGHLY HALF-WAY BETWEEN HATFIELD AND SEVERNOAKS</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS BATH</pattern>
+        <template>IN SOMERSET</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS UWE</pattern>
+        <template>IN NORTH BRISTOL</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS BEAUTY</pattern>
+        <template>IN THE EYE OF THE BEHOLDER</template>
+    </category>
+    
+     <category>
+        <pattern>WHEREABOUTS IS BRISTOL</pattern>
+        <template>IN THE SOUTH-WEST OF THE U.K</template>
+    </category>
+    
+     <category>
+        <pattern>WHEREABOUTS IS LONDON</pattern>
+        <template>ROUGHLY HALF-WAY BETWEEN HATFIELDS SEVERNOAKS</template>
+    </category>
+    
+     <category>
+        <pattern>WHEREABOUTS IS BATH</pattern>
+        <template>IN SOMERSET</template>
+    </category>
+    
+     <category>
+        <pattern>WHEREABUTS IS BEAUTY</pattern>
+        <template>IN THE EYE OF THE BEHOLDER</template>
+    </category>
+    
+     <category>
+        <pattern>TELL ME WHERE BRISTOL IS</pattern>
+        <template>IN THE SOUTH-WEST OF THE U.K</template>
+    </category>
+   
+     <category>
+        <pattern>TELL ME WHERE BATH IS</pattern>
+        <template>IN SOMERSET</template>
+    </category>
+    
+     <category>
+        <pattern>TELL ME WHERE UWE IS</pattern>
+        <template>IN NORTH BRISTOL</template>
+    </category>
+    
+     <category>
+        <pattern>TELL ME WHERE BEAUTY IS</pattern>
+        <template>IN THE EYE OF THE BEHOLDER</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS BRISTOL</pattern>
+        <template>IN THE SOUTH-WEST OF THE U.K</template>
+    </category>
+    
+     <category>
+        <pattern>TELL ME WHERE LONDON IS</pattern>
+        <template>ROUGHLY HALF-WAY BETWEEN HATFIELD AND SEVERNOAKS</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS UWE PLEASE</pattern>
+        <template>IN NORTH BRISTOL</template>
+    </category>
+    
+    <category>
+        <pattern>WHEREABUTS IS BEAUTY</pattern>
+        <template>IN THE EYE OF THE BEHOLDER</template>
+    </category>
+    
+    <category>
+        <pattern>WHERE IS BRISTOL CHATTER</pattern>
+        <template>IN THE SOUTH-WEST OF THE U.K</template>
+    </category>
+    
+    <category>
+        <pattern>WHEREABOUTS IS BATH CHATTER</pattern>
+        <template>IN SOMERSET</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS UWE CHATTER</pattern>
+        <template>IN NORTH BRISTOL</template>
+    </category>
+    
+     <category>
+        <pattern>WHEREABUTS IS BEAUTY CHATTER</pattern>
+        <template>IN THE EYE OF THE BEHOLDER</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS BRISTOL PLEASE CHATTER</pattern>
+        <template>IN THE SOUTH-WEST OF THE U.K</template>
+    </category>
+     
+      <category>
+        <pattern>WHEREABOUTS IS BATH PLEASE CHATTER</pattern>
+        <template>IN SOMERSET</template>
+    </category>
+    
+     <category>
+        <pattern>TELL ME WHERE LONDON IS PLEASE CHATTER</pattern>
+        <template>ROUGHLY HALF-WAY BETWEEN HATFIELDS SEVERNOAKS</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS UWE PLEASE CHATTER</pattern>
+        <template>IN NORTH BRISTOL</template>
+    </category>
+    
+     <category>
+        <pattern>WHEREABUTS IS BEAUTY PLEASE CHATTER</pattern>
+        <template>IN THE EYE OF THE BEHOLDER</template>
+    </category>
+    
+     <category>
+        <pattern>WHY</pattern>
+        <template>I DONT HAVE AN ANSWER FOR THAT</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS KEYNSHAM</pattern>
+        <template>I DONT HAVE AN ANSWER FOR THAT</template>
+    </category>
+    
+      <category>
+        <pattern>WHY NOT</pattern>
+        <template>BECAUSE I DONT HAVE A CATEGORY TOCONNECT ME TO MAPPING SERVICE</template>
+    </category>
+    
+      <category>
+        <pattern>WHAT IS BEAUTY</pattern>
+        <template>A SUBJECTIVE JUDGEMENT EVOKED BY AN EMOTIONAL RESPONSE</template>
+    </category>
+    
+     <category>
+        <pattern>PLEASE TELL ME WHERE BATH IS CHATTER</pattern>
+        <template>IN SOMMERSET</template>
+    </category>
+    
+     <category>
+        <pattern>CHATTER WHERE IS UWE PLEASE</pattern>
+        <template>IN NORTH BRISTOL</template>
+    </category>
+    
+     <category>
+        <pattern>PLEASE PLEASE TELL WHERE WHERE LONDON IS</pattern>
+        <template>ROUGHLY HALF-WAY BETWEEN HATFIELDS SEVERNOAKS</template>
+    </category>
+    
+      <category>
+        <pattern>PLEASE PLEASE TELL WHERE WHERE LONDON IS</pattern>
+        <template>ROUGHLY HALF-WAY BETWEEN HATFIELDS SEVERNOAKS</template>
+    </category>
+    
+    <category>
+        <pattern>WHERE IS CHATTER</pattern>
+        <template>I DONT HAVE AN ANSWER FOR THAT</template>
+    </category>
+    
+    <category>
+        <pattern>CHATTER PLEASE</pattern>
+        <template>I DONT HAVE AN ANSWER FOR THAT</template>
+    </category>
+    
+    <category>
+        <pattern>IS BATH IN BRISTOL</pattern>
+        <template>I DONT HAVE AN ANSWER FOR THAT</template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS BRISTOL</pattern>
+        <template>BRISTOL IS A CITY</template>
+    </category>
+    
+    <category>
+        <pattern>WHERE IS IT</pattern>
+        <template>IN THE SOUTH-WEST OF THE UK</template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS LONDON</pattern>
+        <template>LONDON IS A CITY</template>
+    </category>
+    
+     <category>
+        <pattern>WHERE IS IT</pattern>
+        <template>ROUGHLY HALF-WAY BETWEEN HATFIELDS SEVERNOAKS</template>
+    </category>
+    
+     <category>
+        <pattern>WHAT IS THE POPULATION OF BRISTOL</pattern>
+        <template>THE POPULATION OF BRISTOL IS ABOUT 430000</template>
+    </category>
+    
+     <category>
+        <pattern>HOW MANY PEOPLE LIVE IN BRISTOL</pattern>
+        <template>THE POPULATION OF BRISTOL IS ABOUT 430000</template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS THE POPULATION OF BATH</pattern>
+        <template>THE POPULATION OF BATH IS ABOUT 84000</template>
+    </category>
+    
+     <category>
+        <pattern>HOW MANY PEOPLE LIVE IN BATH</pattern>
+        <template>THE POPULATION OF BATH IS ABOUT 84000</template>
+    </category>
+    
+     <category>
+        <pattern>WHAT IS THE POPULATION OF LONDON</pattern>
+        <template>THE POPULATION OF LONDON IS ABOUT 8.6 MILLION</template>
+    </category>
+    
+     <category>
+        <pattern>WHAT IS UWE</pattern>
+        <template>I DO NOT HAVE AN ANSWER FOR THAT</template>
+    </category>
+    
+     <category>
+        <pattern>HOW MANY PEOPLE LIVE IN KEYNSHAM</pattern>
+        <template>I DO NOT KNOW WHAT THE POPULATION OF KEYNSHAM IS</template>
+    </category>
+    
+     <category>
+        <pattern>WHY NOT</pattern>
+        <template>BECAUS ITS TOO HARD TO COUNT THE RESIDENTS OF KESYNSHAM</template>
+    </category>
+    
+     <category>
+        <pattern>HOW MANY PEOPLE LIVE IN SPACE</pattern>
+        <template>I DO NOT KNOW WHAT THE POPULATION OF SPACE IS</template>
+    </category>
+    
+    <category>
+        <pattern>WHY NOT</pattern>
+        <template>BECAUSE ITS TOO HARD TO COUNT THE RESIDENTS OF SPACE</template>
+    </category>
+    
+</aiml>
